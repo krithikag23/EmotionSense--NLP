@@ -6,7 +6,6 @@ model_name = "j-hartmann/emotion-english-distilroberta-base"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
-
 label_names = ['anger','disgust','fear','joy','neutral','sadness','surprise']
 
 st.title("🎭 EmotionSense AI")
