@@ -13,7 +13,6 @@ label_names = ['anger','disgust','fear','joy','neutral','sadness','surprise']
 st.title("🎭 EmotionSense AI")
 st.write("Enter text and I will detect the emotion!")
 
-
 user_input = st.text_input("Type something:")
 
 
