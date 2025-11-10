@@ -15,7 +15,6 @@ st.write("Enter text and I will detect the emotion!")
 
 user_input = st.text_input("Type something:")
 
-
 if user_input:
     inputs = tokenizer(user_input, return_tensors="pt")
     logits = model(**inputs).logits
