@@ -36,6 +36,7 @@ EmotionSense provides a **lightweight, ready-to-use** solution to analyze emotio
 
 ## 🧠 Emotions Detected
 
+
 | Emotion | Meaning | Example Expression |
 |--------|---------|-------------------|
 | 😄 Joy | Happiness, positivity | "I feel great today!" |
