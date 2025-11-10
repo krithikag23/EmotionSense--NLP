@@ -9,7 +9,6 @@ model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
 label_names = ['anger','disgust','fear','joy','neutral','sadness','surprise']
 
-
 st.title("🎭 EmotionSense AI")
 st.write("Enter text and I will detect the emotion!")
 
