@@ -6,6 +6,7 @@ Using a **pre-trained Transformer-based model**, EmotionSense does **not require
 This project demonstrates how Natural Language Processing (NLP) can analyze sentiment and emotional undertones in human language, enabling meaningful insights in chatbots, social platforms, mental health assistants, and more.  
 Just provide input text → get **joy, sadness, anger, fear, disgust, neutral, or surprise** 💬➡️🎭
 
+
 ---
 
 ## 🌍 Why EmotionSense?
